@@ -1,0 +1,22 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+
+[user]
+	name = mattmaniak
+	email = 72657016+mattmaniak@users.noreply.github.com
+
+[push]
+	default = current
+
+[pull]
+	rebase = false
+
+[credential]
+	helper = store
+	helper = /usr/local/share/gcm-core/git-credential-manager
+
+[credential "https://dev.azure.com"]
+	useHttpPath = true

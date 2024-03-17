@@ -1,0 +1,25 @@
+.CFUserTextEncoding
+.DS_Store
+.lesshst
+.python_history
+.zcompdump*
+.zsh_history
+.viminfo
+iCloud
+Google Drive
+
+.cache/
+.config/
+.gem/
+.local/
+.zsh_sessions/
+
+Applications/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
