@@ -1,32 +1,6 @@
-.CFUserTextEncoding
-.DS_Store
-.git-credentials
-.lesshst
-.python_history
-.zcompdump*
-.zsh_history
-.viminfo
-iCloud
-Google Drive
+*
 
-.cache/
-.config/
-.gem/
-.mono/
-.npm/
-.local/
-.oh-my-zsh/
-.oracle_jre_usage/
-.swiftpm
-.vscode/
-.zsh_sessions/
-
-Applications/
-Desktop/
-Documents/
-Downloads/
-Library/
-Movies/
-Music/
-Pictures/
-Public/
+!.gitconfig
+!.gitignore
+!.upgrade_global.sh
+!.zprofile
