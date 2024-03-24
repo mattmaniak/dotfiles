@@ -2,5 +2,6 @@
 
 !.gitconfig
 !.gitignore
-!.upgrade_global.sh
+!.upgradeglobal.sh
 !.zprofile
+!.zshrc
