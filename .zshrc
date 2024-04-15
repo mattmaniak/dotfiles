@@ -44,4 +44,5 @@ export LC_ALL=en_US.UTF-8
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 alias globalupgrade="$HOME/.globalupgrade.sh"
-alias zshconfig="vi ~/.zshrc"
+alias zshconfig="vi $HOME/.zshrc"
+alias restartdock="(rm -f $HOME/Library/Application\ Support/Dock/*.db) 2> /dev/null; killall Dock"
