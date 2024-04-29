@@ -38,11 +38,14 @@ source $ZSH/oh-my-zsh.sh
 
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
+export MTL_HUD_ENABLED=1
+export PATH=$HOME/.cargo/bin:$PATH
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 alias globalupgrade="$HOME/.globalupgrade.sh"
+alias reloadzshrc="source $HOME/.zshrc"
 alias restartdock="(rm -f $HOME/Library/Application\ Support/Dock/*.db) 2> /dev/null; killall Dock"
 alias zshconfig="vi $HOME/.zshrc"
