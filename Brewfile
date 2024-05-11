@@ -27,3 +27,9 @@ cask "tiles"
 cask "virtualbox@beta"
 cask "visual-studio-code"
 cask "whisky"
+
+mas "AdGuard for Safari", id: 1440147259
+mas "Cleaner for Xcode", id: 1296084683
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Xcode", id: 497799835
