@@ -2,7 +2,7 @@
 
 !.gitconfig
 !.gitignore
-!.upgradeglobal.sh
+!.globalupgrade.sh
 !.zprofile
 !.zshrc
 !Brewfile
