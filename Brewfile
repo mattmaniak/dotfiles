@@ -35,3 +35,9 @@ mas "Cleaner for Xcode", id: 1296084683
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Xcode", id: 497799835
+
+vscode "eamodio.gitlens"
+vscode "mads-hartmann.bash-ide-vscode"
+vscode "ms-python.python"
+vscode "ms-vscode.cpptools"
+vscode "ms-vscode.makefile-tools"
