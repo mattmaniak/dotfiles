@@ -35,10 +35,8 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
-export MTL_HUD_ENABLED=1
 export PATH=$HOME/.cargo/bin:$PATH
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
@@ -49,3 +47,5 @@ alias globalupgrade="$HOME/.globalupgrade.sh"
 alias reloadzshrc="source $HOME/.zshrc"
 alias restartdock="(rm -f $HOME/Library/Application\ Support/Dock/*.db) 2> /dev/null; killall Dock"
 alias zshconfig="vi $HOME/.zshrc"
+
+source /opt/homebrew/share/antigen/antigen.zsh

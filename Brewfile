@@ -1,3 +1,4 @@
+brew "antigen"
 brew "coreutils"
 brew "gedit"
 brew "git"  
