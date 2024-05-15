@@ -11,6 +11,7 @@ brew "mas"
 brew "rust"
 brew "trash"
 brew "watch"
+brew "xcodes"
 brew "yo"
 
 cask "adobe-acrobat-reader"
