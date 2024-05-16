@@ -1,4 +1,5 @@
 brew "antigen"
+brew "aria2"
 brew "coreutils"
 brew "gedit"
 brew "git"  
