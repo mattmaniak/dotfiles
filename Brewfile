@@ -44,6 +44,11 @@ mas "Xcode", id: 497799835
 
 vscode "eamodio.gitlens"
 vscode "mads-hartmann.bash-ide-vscode"
+vscode "mattmaniak.inkpot-gc-vsc"
 vscode "ms-python.python"
+vscode "ms-vscode.cmake-tools"
 vscode "ms-vscode.cpptools"
+vscode "ms-vscode.cpptools-extension-pack"
+vscode "ms-vscode.cpptools-themes"
 vscode "ms-vscode.makefile-tools"
+vscode "twxs.cmake"
