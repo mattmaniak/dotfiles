@@ -1,6 +1,7 @@
 brew "antigen"
 brew "aria2"
 brew "coreutils"
+brew "docker"
 brew "gedit"
 brew "git"
 brew "git-flow"
