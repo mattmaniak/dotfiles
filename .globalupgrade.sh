@@ -8,7 +8,5 @@ brew bundle     # Install and update existing packages from Brewfile.
 brew autoremove # Remove unused dependencies.
 brew cleanup    # Clear cache.
 
-npm update -g
-
 mas upgrade
 softwareupdate -l
