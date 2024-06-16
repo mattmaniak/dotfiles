@@ -1,4 +1,4 @@
-#! /bin/zsh -ex
+#! /bin/zsh -e
 
 source "$HOME/.zshrc"
 omz update
