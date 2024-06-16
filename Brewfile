@@ -21,7 +21,6 @@ brew "xcodes"
 brew "yo"
 brew "zsh-completions"
 
-cask "adobe-acrobat-reader"
 cask "audacity"
 cask "balenaetcher"
 cask "discord"
