@@ -39,8 +39,6 @@ cask "whisky"
 
 mas "AdGuard for Safari", id: 1440147259
 mas "Cleaner for Xcode", id: 1296084683
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 
 vscode "eamodio.gitlens"
 vscode "mads-hartmann.bash-ide-vscode"
