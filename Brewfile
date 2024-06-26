@@ -17,7 +17,6 @@ brew "trash"
 brew "vsce"
 brew "watch"
 brew "xcodes"
-brew "yo"
 brew "zsh-completions"
 
 cask "audacity"
