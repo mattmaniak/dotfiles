@@ -3,18 +3,8 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-
-# Set name of the theme to load --- if set to "random", it will
-# load a random theme each time oh-my-zsh is loaded, in which case,
-# to know which specific one was loaded, run: echo $RANDOM_THEME
-# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="robbyrussell"
 
-# Uncomment the following line to use hyphen-insensitive completion.
-# Case-sensitive completion must be off. _ and - will be interchangeable.
-# HYPHEN_INSENSITIVE="true"
-
-# Uncomment one of the following lines to change the auto-update behavior
 zstyle ':omz:update' mode disabled  # disable automatic updates
 
 # Uncomment the following line if pasting URLs and other text is messed up.
@@ -47,5 +37,7 @@ alias globalupgrade="$HOME/.globalupgrade.sh"
 alias reloadzshconfig="source $HOME/.zshrc"
 alias restartdock="(rm -f $HOME/Library/Application\ Support/Dock/*.db) 2> /dev/null; killall Dock"
 alias zshconfig="vi $HOME/.zshrc"
+
+eval "$(rbenv init - zsh)"
 
 source /opt/homebrew/share/antigen/antigen.zsh
