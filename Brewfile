@@ -1,5 +1,5 @@
-brew "antigen"
 brew "aria2"
+brew "cmake"
 brew "coreutils"
 brew "docker"
 brew "git"

@@ -39,5 +39,3 @@ alias restartdock="(rm -f $HOME/Library/Application\ Support/Dock/*.db) 2> /dev/
 alias zshconfig="vi $HOME/.zshrc"
 
 eval "$(rbenv init - zsh)"
-
-source /opt/homebrew/share/antigen/antigen.zsh
