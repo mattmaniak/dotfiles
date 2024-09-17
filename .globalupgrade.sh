@@ -9,6 +9,7 @@ brew autoremove # Remove unused dependencies.
 brew cleanup    # Clear cache.
 
 gem update
+pipx upgrade-all
 
 mas upgrade
 softwareupdate -l
