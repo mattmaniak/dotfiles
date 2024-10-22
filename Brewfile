@@ -2,6 +2,7 @@ brew "aria2"
 brew "cmake"
 brew "coreutils"
 brew "docker"
+brew "gh"
 brew "git"
 brew "git-flow"
 brew "git-lfs"
@@ -40,10 +41,15 @@ cask "whisky"
 
 mas "AdGuard for Safari", id: 1440147259
 mas "Cleaner for Xcode", id: 1296084683
+mas "Focus for YouTube", id: 1514703160
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 
+vscode "davidanson.vscode-markdownlint"
+vscode "doublevkay.codeql-agent"
 vscode "eamodio.gitlens"
+vscode "editorconfig.editorconfig"
+vscode "github.vscode-codeql"
 vscode "mads-hartmann.bash-ide-vscode"
 vscode "mattmaniak.inkpot-gc-vsc"
 vscode "ms-python.python"
