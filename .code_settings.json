@@ -18,5 +18,6 @@
     "workbench.colorTheme": "Inkpot GC VSC",
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.unicodeHighlight.invisibleCharacters": false,
-    "makefile.configureOnOpen": false
+    "makefile.configureOnOpen": false,
+    "diffEditor.codeLens": true
 }
