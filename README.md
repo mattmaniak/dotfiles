@@ -10,4 +10,4 @@ A minimalistic suite for macOS and GNU/Linux.
 4. Execute `./install.sh` to copy per-application config files.
 5. Go back using into your home dir using `cd ..`.
 6. Execute `source "$HOME/.zshrc"`.
-7. For macOS only, run `upgradeall` to install and/or update packages.
+7. For macOS only, run `upgradeall` in a terminal to install packages. Update them the same way in a future.
