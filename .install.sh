@@ -12,5 +12,5 @@ case $kernel_name in
     ;;
 esac
 
-cp ".code_$target_vscode_settings_file" "$vscode_user_settings_file"
+cp ".dotfiles/.code_$target_vscode_settings_file" "$vscode_user_settings_file"
 ls -l "$vscode_user_settings_file"

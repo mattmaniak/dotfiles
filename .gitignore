@@ -2,6 +2,7 @@
 
 !.backup.sh
 !.code_settings.json
+!.dotfiles
 !.git_amend_last_commit_author.sh
 !.gitconfig
 !.gitignore
