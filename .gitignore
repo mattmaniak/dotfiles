@@ -6,7 +6,7 @@
 !.git_fetch_all_branches.sh
 !.gitconfig
 !.gitignore
-!.globalupgrade.sh
+!.upgradeall.sh
 !.zprofile
 !.zshrc
 !Brewfile
