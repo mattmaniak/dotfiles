@@ -1,7 +1,6 @@
 *
 
-!.code_settings.json
-!.dotfiles
+!.appsconfig
 !.git_amend_last_commit_author.sh
 !.git_fetch_all_branches.sh
 !.gitconfig
