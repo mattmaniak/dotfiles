@@ -34,6 +34,8 @@ export PATH=$HOME/.cargo/bin:$HOME/.local/bin:$PATH
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 alias appsconfig="$HOME/.appsconfig.sh"
+alias gitamendlastcommitauthor="$HOME/.git_amend_last_commit_author.sh"
+alias gitfetchallbranches="$HOME/.git_fetch_all_branches.sh"
 alias reloadzshconfig="source $HOME/.zshrc"
 alias restartdock="(rm -f $HOME/Library/Application\ Support/Dock/*.db) 2> /dev/null; killall Dock"
 alias upgradeall="$HOME/.upgradeall.sh"
