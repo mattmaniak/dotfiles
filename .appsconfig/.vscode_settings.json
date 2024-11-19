@@ -19,5 +19,9 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.unicodeHighlight.invisibleCharacters": false,
     "makefile.configureOnOpen": false,
-    "diffEditor.codeLens": true
+    "diffEditor.codeLens": true,
+    "git.ignoreMissingGitWarning": true,
+    "git.confirmSync": false,
+    "csharp.suppressDotnetInstallWarning": true,
+    "files.trimFinalNewlines": true
 }
