@@ -2,7 +2,6 @@
     "telemetry.telemetryLevel": "off",
     "workbench.startupEditor": "newUntitledFile",
     "window.restoreWindows": "one",
-    "update.showReleaseNotes": false,
     "git.openRepositoryInParentFolders": "always",
     "editor.fontSize": 11,
     "terminal.integrated.fontSize": 11,
