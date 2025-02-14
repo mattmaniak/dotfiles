@@ -20,7 +20,11 @@
     "makefile.configureOnOpen": false,
     "diffEditor.codeLens": true,
     "git.ignoreMissingGitWarning": true,
+    "editor.rulers": [
+        80
+    ],
     "git.confirmSync": false,
     "csharp.suppressDotnetInstallWarning": true,
-    "files.trimFinalNewlines": true
+    "files.trimFinalNewlines": true,
+    "window.confirmSaveUntitledWorkspace": false
 }
