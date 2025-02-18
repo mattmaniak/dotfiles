@@ -52,6 +52,7 @@ mas "Pages", id: 409201541
 
 vscode "davidanson.vscode-markdownlint"
 vscode "doublevkay.codeql-agent"
+vscode "eamodio.gitlens"
 vscode "editorconfig.editorconfig"
 vscode "github.vscode-codeql"
 vscode "mads-hartmann.bash-ide-vscode"
