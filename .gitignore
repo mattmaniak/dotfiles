@@ -7,6 +7,7 @@
 !.git_fetch_all_branches.sh
 !.gitconfig
 !.gitignore
+!.oh-my-zsh/custom/
 !.upgradeall.sh
 !.zprofile
 !.zshrc
