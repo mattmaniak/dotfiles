@@ -1,4 +1,4 @@
-#! /bin/zsh -e
+#!/bin/zsh -e
 
 kernel_name=$(uname -s)
 
