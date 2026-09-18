@@ -29,7 +29,6 @@ cask "virtualbox"
 cask "visual-studio-code"
 
 mas "AdGuard for Safari", id: 1440147259
-mas "Cleaner for Xcode", id: 1296084683
 mas "Focus for YouTube", id: 1514703160
 
 vscode "davidanson.vscode-markdownlint"
