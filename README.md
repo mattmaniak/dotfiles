@@ -2,6 +2,9 @@
 
 A minimalistic suite for macOS and GNU/Linux.
 
+## Requirements
+- [Homebrew Package Manager](https://brew.sh)
+
 ## Installation
 
 1. Clone this repository.
