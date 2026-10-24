@@ -1,5 +1,4 @@
 brew "aria2"
-brew "blender"
 brew "cmake"
 brew "coreutils"
 brew "docker"
@@ -20,6 +19,7 @@ brew "watch"
 brew "xcodes"
 
 cask "audacity"
+cask "blender"
 cask "discord"
 cask "gimp"
 cask "git-credential-manager"
