@@ -1,4 +1,5 @@
 brew "aria2"
+brew "blender"
 brew "cmake"
 brew "coreutils"
 brew "docker"
