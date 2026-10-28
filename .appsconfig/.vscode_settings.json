@@ -1,6 +1,6 @@
 {
     "telemetry.telemetryLevel": "off",
-    "workbench.startupEditor": "newUntitledFile",
+    "workbench.startupEditor": "none",
     "window.restoreWindows": "one",
     "git.openRepositoryInParentFolders": "always",
     "editor.fontSize": 11,
