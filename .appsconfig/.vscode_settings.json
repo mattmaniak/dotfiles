@@ -26,5 +26,7 @@
     "git.confirmSync": false,
     "csharp.suppressDotnetInstallWarning": true,
     "files.trimFinalNewlines": true,
-    "window.confirmSaveUntitledWorkspace": false
+    "window.confirmSaveUntitledWorkspace": false,
+    "chat.disableAIFeatures": true,
+    "workbench.panel.defaultLocation": "right"
 }
